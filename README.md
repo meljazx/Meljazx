@@ -60,6 +60,7 @@
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=meljazx&repo=windows-corrupted-sim-&theme=github_dark_dimmed)](https://github.com/meljazx/windows-corrupted-sim-)
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=meljazx&repo=website-iglesia-sanmateo&theme=github_dark_dimmed)](https://github.com/meljazx/website-iglesia-sanmateo)
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=meljazx&repo=focus-garden&theme=github_dark_dimmed)](https://github.com/meljazx/focus-garden)
+[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=meljazx&repo=color-master&theme=github_dark_dimmed)](https://github.com/meljazx/color-master)
 <br>
 
 #
